@@ -1,4 +1,11 @@
-# movie-sh
+# Movie-landingPage
+this project setup with Vue 3 composition api and pina 
+and ui setup with simple Bulma
+## dependency:
+Bulma
+Pinia
+Vue Router
+Axios 
 
 ## Project setup
 ```
@@ -20,5 +27,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
