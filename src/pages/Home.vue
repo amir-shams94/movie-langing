@@ -1,11 +1,22 @@
 <template>
-<h1>Home page</h1>
-  </template>
+
+    <SlideShow />
+
+  <NewsSection />
+
+
+
   
-  <script>
   
-  </script>
+</template>
   
-  <!-- Add "scoped" attribute to limit CSS to this component only -->
+<script setup >
+import SlideShow from '@/components/ui/SlideShow.vue'
+import NewsSection from '@/components/news/NewsHome.vue'
+
+</script>
+
+
+
   
   

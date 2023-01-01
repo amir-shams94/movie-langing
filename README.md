@@ -6,6 +6,7 @@ Bulma
 Pinia
 Vue Router
 Axios 
+swiper
 
 ## Project setup
 ```
